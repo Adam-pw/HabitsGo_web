@@ -1,0 +1,39 @@
+.nav{
+    position: absolute;
+width: 1488px;
+height: 77px;
+left: 0px;
+top: -1px;
+
+/* Neutral-500 */
+
+background: #292A2C
+}
+.pname{
+    position: absolute;
+width: 139px;
+height: 39px;
+left: 57.66px;
+top: 37px;
+
+/* H4 Bold */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 140%;
+/* or 39px */
+
+
+color: #FFFFFF;
+}
+.comp{
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    gap: 4rem;
+    
+}

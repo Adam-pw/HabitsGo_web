@@ -1,0 +1,26 @@
+.front{
+    position: absolute;
+width: 1488px;
+height: 692px;
+left: 0px;
+top: 76px;
+
+/* Neutral-500 */
+
+background: #292A2C;
+}
+.front1{
+    position: absolute;
+width: 700px;
+height: 856px;
+left: 900px;
+top: -72.5px;
+
+/* Secondary */
+
+background: #2A4890;
+color: white;
+border-radius: 290% 30% 80% 170%;
+
+
+}
