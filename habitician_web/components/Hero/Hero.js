@@ -11,9 +11,7 @@ export default function Hero() {
   return (
     <>
        <div className={styles.front}></div>
-       <div className={styles.front1}>hello</div>
-       
-       
+       <div className={styles.front1}></div>
     </>
   )
 }
